@@ -2,3 +2,5 @@ djangoenv
 blog/migrations
 __pycache__/
 test_blog/settings.py
+.idea
+db.sqlite3
